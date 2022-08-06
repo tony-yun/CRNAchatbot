@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CRNAchatbot",
+    "slug": "CRNAchatbot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CRNAchatbot"
+}
